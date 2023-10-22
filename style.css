@@ -19,9 +19,15 @@
     position: absolute;
     max-width: 100%;
     max-height: 100%;
-
+    border-radius: 8px;
 }
 
 #player {
     display: none;
+}
+h4{
+    font-weight: 500;
+}
+h5{
+    font-weight: 500;
 }
